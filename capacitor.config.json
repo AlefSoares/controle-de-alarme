@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Controle_de_Alarme",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

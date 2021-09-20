@@ -1,0 +1,7 @@
+{
+  "name": "Controle_de_Alarme",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
