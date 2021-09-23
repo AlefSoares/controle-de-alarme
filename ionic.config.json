@@ -1,7 +1,10 @@
 {
   "name": "Controle_de_Alarme",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
   },
   "type": "angular"
 }
